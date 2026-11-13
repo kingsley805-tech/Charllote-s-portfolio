@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <circle cx="32" cy="32" r="30" fill="#176B68"/>
+  <path d="M32 18 C26 18 20 23 20 30 C20 39 32 47 32 47 C32 47 44 39 44 30 C44 23 38 18 32 18 Z" fill="#E9BFC0" opacity="0.3"/>
+  <!-- Mother and baby stylization -->
+  <circle cx="28" cy="26" r="4.5" fill="#FAF9F6"/>
+  <path d="M22 38 C22 32 34 32 34 38" stroke="#FAF9F6" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="37" cy="33" r="3" fill="#A8C8B5"/>
+  <path d="M33 42 C33 37 41 37 41 42" stroke="#A8C8B5" stroke-width="2" stroke-linecap="round"/>
+  <!-- Heartbeat accent -->
+  <path d="M16 32 L22 32 L25 25 L29 39 L33 30 L36 34 L48 34" stroke="#FAF9F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+</svg>
+
