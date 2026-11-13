@@ -144,7 +144,7 @@ export default function Experience() {
                 </p>
               </div>
 
-              <div className="text-right">
+              <div className="text-left sm:text-right">
                 <span className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-sage-50 dark:bg-charcoal-800 text-xs font-semibold text-charcoal-700 dark:text-ivory-200 border border-sage-200 dark:border-charcoal-700">
                   <Stethoscope className="w-3.5 h-3.5 text-teal-600 dark:text-teal-400" />
                   <span>{selectedPlacement.role}</span>

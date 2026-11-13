@@ -90,7 +90,7 @@ export default function About() {
             </div>
 
             {/* Quick credential tag */}
-            <div className="absolute -bottom-5 -right-4 sm:-right-6 glass-card rounded-2xl p-4 shadow-soft-lg border border-teal-200/70 dark:border-charcoal-700 bg-white/95 dark:bg-charcoal-900/95 max-w-[240px]">
+            <div className="absolute -bottom-4 right-2 sm:-bottom-5 sm:-right-4 glass-card rounded-2xl p-3.5 sm:p-4 shadow-soft-lg border border-teal-200/70 dark:border-charcoal-700 bg-white/95 dark:bg-charcoal-900/95 max-w-[220px] sm:max-w-[240px]">
               <div className="flex items-center gap-2.5">
                 <div className="w-10 h-10 rounded-xl bg-teal-50 dark:bg-teal-950 flex items-center justify-center text-teal-600 dark:text-teal-400">
                   <Award className="w-5 h-5" />
