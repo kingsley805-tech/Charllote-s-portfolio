@@ -32,7 +32,7 @@ export default function CVSection() {
             Official Midwifery Curriculum Vitae
           </h2>
           <p className="mt-3 text-base sm:text-lg text-charcoal-600 dark:text-charcoal-300">
-            Download or inspect the complete, verified curriculum vitae of Charllote Korankye.
+            Download or inspect the complete, verified curriculum vitae of Charllote Amaniampong Korankye.
           </p>
         </div>
 
@@ -46,7 +46,7 @@ export default function CVSection() {
               </div>
               <div>
                 <h3 className="font-serif font-bold text-xl sm:text-2xl text-charcoal-800 dark:text-ivory-100">
-                  Charllote Korankye - Professional CV
+                  Charllote Amaniampong Korankye - Professional CV
                 </h3>
                 <p className="text-xs sm:text-sm text-charcoal-500 dark:text-charcoal-400 mt-0.5">
                   Format: PDF Document • Authentic Original Source • Size: ~46 KB
@@ -125,7 +125,7 @@ export default function CVSection() {
             <div className="relative w-full h-[650px] sm:h-[820px] bg-charcoal-100 dark:bg-charcoal-950">
               <iframe
                 src={`${personal.cvFilePath}#view=FitH`}
-                title="Charllote Korankye CV PDF Preview"
+                title="Charllote Amaniampong Korankye CV PDF Preview"
                 className="w-full h-full border-0"
               />
             </div>

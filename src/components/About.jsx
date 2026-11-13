@@ -54,7 +54,7 @@ export default function About() {
             <span>Professional Profile & Journey</span>
           </div>
           <h2 className="font-serif font-bold text-3xl sm:text-4xl lg:text-5xl text-charcoal-800 dark:text-ivory-100 tracking-tight">
-            About Charllote Korankye
+            About Charllote Amaniampong Korankye
           </h2>
           <p className="mt-3 text-base sm:text-lg text-charcoal-600 dark:text-charcoal-300">
             A dedicated midwife driven by a profound commitment to safe childbirth, maternal empowerment, and newborn survival across Ghana.
@@ -69,7 +69,7 @@ export default function About() {
             <div className="relative rounded-3xl overflow-hidden shadow-soft-xl border-4 border-white dark:border-charcoal-800 bg-white dark:bg-charcoal-900">
               <img
                 src={personal.actionImages.labcoat}
-                alt="Charllote Korankye at Pentecost University wearing embroidered clinical lab coat"
+                alt="Charllote Amaniampong Korankye at Pentecost University wearing embroidered clinical lab coat"
                 className="w-full h-[450px] sm:h-[520px] object-cover object-center"
                 loading="lazy"
               />

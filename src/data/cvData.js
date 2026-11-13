@@ -1,7 +1,7 @@
 export const cvData = {
   personal: {
-    fullName: "Charllote Korankye",
-    officialBadgeName: "Korankye Adamanpoma Charllote",
+    fullName: "Charllote Amaniampong Korankye",
+    officialBadgeName: "Charllote Amaniampong Korankye",
     title: "Midwife | Maternal & Newborn Health Specialist",
     shortRole: "Student Midwife",
     qualificationStatus: "BSc. Midwifery Candidate",
@@ -16,7 +16,7 @@ export const cvData = {
     formattedPhone: "+233 20 908 3214",
     headline: "Compassionate Midwifery. Empowering Mothers. Nurturing New Beginnings.",
     bioShort: "Dedicated and compassionate midwifery professional with comprehensive clinical rotations across five major public healthcare and teaching hospitals in Ghana. Specialized in safe delivery assistance, antenatal assessment, fetal monitoring, and essential newborn care.",
-    bioLong: `Charllote Korankye is a dedicated, empathetic, and detail-oriented midwifery professional trained under the prestigious Midwifery Programme at Pentecost University, Ghana. Having completed rigorous clinical placements across top-tier regional and teaching hospitals—including the Korle-Bu Teaching Hospital and Greater Accra Regional Hospital—she brings hands-on practical competence in labour monitoring, normal vaginal deliveries, high-risk pregnancy screening, and comprehensive postnatal care.
+    bioLong: `Charllote Amaniampong Korankye is a dedicated, empathetic, and detail-oriented midwifery professional trained under the prestigious Midwifery Programme at Pentecost University, Ghana. Having completed rigorous clinical placements across top-tier regional and teaching hospitals—including the Korle-Bu Teaching Hospital and Greater Accra Regional Hospital—she brings hands-on practical competence in labour monitoring, normal vaginal deliveries, high-risk pregnancy screening, and comprehensive postnatal care.
 
 Her professional approach is deeply rooted in respectful maternity care, evidence-based obstetric practice, and patient-centred empathy. She is passionate about ensuring safe motherhood, reducing preventable neonatal complications, and empowering expectant mothers through accessible health education and proactive maternal-fetal surveillance.`,
     cvFilePath: "/Charllote_Korankye_CV.pdf",
@@ -436,11 +436,11 @@ Her professional approach is deeply rooted in respectful maternity care, evidenc
     {
       id: "portrait",
       src: "/images/charllote-portrait.jpg",
-      title: "Charllote Korankye - Midwifery Uniform",
+      title: "Charllote Amaniampong Korankye - Midwifery Uniform",
       subtitle: "Official Clinical Midwifery Uniform with Name Badge & Lapel Watch",
       category: "Professional Identity",
       tag: "Verified Candidate Photo",
-      description: "Charllote Korankye in her official white midwifery uniform with her Pentecost University BSc. Midwifery name badge and nursing watch."
+      description: "Charllote Amaniampong Korankye in her official white midwifery uniform with her Pentecost University BSc. Midwifery name badge and nursing watch."
     },
     {
       id: "labcoat",

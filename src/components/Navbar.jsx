@@ -87,14 +87,14 @@ export default function Navbar({ activeSection, theme, toggleTheme, scrollProgre
               <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-full ring-2 ring-teal-500/80 ring-offset-2 ring-offset-ivory-100 dark:ring-offset-charcoal-900 overflow-hidden shadow-soft group-hover:scale-105 transition-transform shrink-0 bg-teal-50 dark:bg-charcoal-800 flex items-center justify-center">
                 <img
                   src="/images/charllote-avatar.jpg"
-                  alt="Charllote Korankye Midwife Logo"
+                  alt="Charllote Amaniampong Korankye Midwife Logo"
                   className="w-full h-full object-cover object-center"
                   loading="eager"
                 />
               </div>
               <div className="flex flex-col min-w-0">
                 <span className="font-serif font-bold text-sm sm:text-base md:text-lg text-charcoal-800 dark:text-ivory-100 tracking-tight leading-tight flex items-center gap-1.5 truncate">
-                  Charllote Korankye
+                  Charllote Amaniampong Korankye
                   <span className="inline-block w-2 h-2 rounded-full bg-teal-500 shrink-0" title="Clinical Midwife"></span>
                 </span>
                 <span className="text-[11px] sm:text-xs text-teal-600 dark:text-sage-300 font-medium tracking-wide truncate">

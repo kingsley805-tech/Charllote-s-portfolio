@@ -54,7 +54,7 @@ export default function Hero() {
             {/* Name & Academic Institution */}
             <div className="space-y-1.5 sm:space-y-2">
               <h1 className="font-serif font-bold text-3xl sm:text-5xl lg:text-6xl text-charcoal-900 dark:text-white tracking-tight leading-[1.12]">
-                Charllote <span className="text-teal-600 dark:text-teal-400">Korankye</span>
+                Charllote Amaniampong <span className="text-teal-600 dark:text-teal-400">Korankye</span>
               </h1>
               <p className="font-sans font-medium text-base sm:text-lg lg:text-xl text-teal-700 dark:text-sage-300">
                 Pentecost University — BSc. Midwifery Candidate
@@ -132,7 +132,7 @@ export default function Hero() {
               <div className="relative rounded-3xl overflow-hidden shadow-soft-xl border-4 border-white dark:border-charcoal-800 bg-white dark:bg-charcoal-900 group">
                 <img
                   src="/images/charllote-portrait.jpg"
-                  alt="Charllote Korankye - Midwifery Professional in official uniform with Pentecost University badge"
+                  alt="Charllote Amaniampong Korankye - Midwifery Professional in official uniform with Pentecost University badge"
                   className="w-full h-[440px] sm:h-[500px] object-cover object-top transition-transform duration-500 group-hover:scale-105"
                   loading="eager"
                 />
@@ -143,7 +143,7 @@ export default function Hero() {
                     <ShieldCheck className="w-3.5 h-3.5" />
                     <span>Pentecost University • BSc. Midwifery</span>
                   </div>
-                  <p className="font-serif text-lg font-bold text-white">Charllote Korankye</p>
+                  <p className="font-serif text-lg font-bold text-white">Charllote Amaniampong Korankye</p>
                   <p className="text-xs text-sage-200">
                     Clinical Rotations: Korle-Bu • Greater Accra Regional • Achimota • Mother & Child • Swedru
                   </p>

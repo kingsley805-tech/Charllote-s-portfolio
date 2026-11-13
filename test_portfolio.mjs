@@ -45,7 +45,7 @@ assert(distFiles.some(f => f.endsWith('.css')), 'Production CSS stylesheet gener
 
 // 5. Verify cvData content matches authentic CV exactly
 import('./src/data/cvData.js').then(({ cvData }) => {
-  assert(cvData.personal.fullName === 'Charllote Korankye', 'Candidate full name is Charllote Korankye');
+  assert(cvData.personal.fullName === 'Charllote Amaniampong Korankye', 'Candidate full name is Charllote Amaniampong Korankye');
   assert(cvData.personal.institution === 'Pentecost University', 'Institution is Pentecost University');
   assert(cvData.education.length >= 2, 'Education timeline includes Pentecost University & Odorgonno SHS');
   assert(cvData.clinicalPlacements.length === 5, 'Exactly 5 clinical hospital placements verified');

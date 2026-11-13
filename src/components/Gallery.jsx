@@ -47,7 +47,7 @@ export default function Gallery() {
             Clinical & Academic Gallery
           </h2>
           <p className="mt-3 text-base sm:text-lg text-charcoal-600 dark:text-charcoal-300">
-            Authentic documentation of Charllote's clinical uniforms, academic formation at Pentecost University, and hospital ward placements.
+            Authentic documentation of Charllote Amaniampong Korankye's clinical uniforms, academic formation at Pentecost University, and hospital ward placements.
           </p>
         </div>
 

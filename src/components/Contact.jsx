@@ -200,7 +200,7 @@ export default function Contact() {
                 type="button"
                 onClick={() => handleQuickSubject(
                   "Request for Professional Midwifery References",
-                  "Dear Charllote,\n\nI am contacting you regarding a midwifery position/opportunity and would like to request your academic and clinical references.\n\nThank you."
+                  "Dear Charllote Amaniampong Korankye,\n\nI am contacting you regarding a midwifery position/opportunity and would like to request your academic and clinical references.\n\nThank you."
                 )}
                 className="w-full py-2.5 px-4 rounded-xl text-xs font-semibold bg-white dark:bg-charcoal-900 text-teal-700 dark:text-teal-300 border border-sage-300 dark:border-charcoal-700 hover:border-teal-500 transition-colors shadow-xs"
               >
@@ -228,7 +228,7 @@ export default function Contact() {
                   Message Prepared Successfully!
                 </h4>
                 <p className="text-sm text-teal-800 dark:text-teal-300 max-w-md mx-auto leading-relaxed">
-                  Thank you for reaching out to Charllote Korankye. Your inquiry has been processed. You can also send an email directly to <strong>{personal.primaryEmail}</strong>.
+                  Thank you for reaching out to Charllote Amaniampong Korankye. Your inquiry has been processed. You can also send an email directly to <strong>{personal.primaryEmail}</strong>.
                 </p>
                 <div className="pt-2">
                   <button

@@ -32,7 +32,7 @@ export default function Philosophy() {
           <div className="mt-4 flex items-center justify-center gap-2">
             <span className="h-0.5 w-10 bg-teal-500 rounded-full" />
             <span className="text-xs font-semibold uppercase tracking-widest text-teal-700 dark:text-teal-400">
-              Charllote Korankye • Midwife Philosophy
+              Charllote Amaniampong Korankye • Midwife Philosophy
             </span>
             <span className="h-0.5 w-10 bg-teal-500 rounded-full" />
           </div>

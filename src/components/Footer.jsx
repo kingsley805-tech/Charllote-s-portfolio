@@ -43,14 +43,14 @@ export default function Footer() {
               <div className="w-11 h-11 rounded-full ring-2 ring-teal-400/80 overflow-hidden shadow-soft shrink-0 bg-charcoal-800">
                 <img
                   src="/images/charllote-avatar.jpg"
-                  alt="Charllote Korankye - Midwife"
+                  alt="Charllote Amaniampong Korankye - Midwife"
                   className="w-full h-full object-cover object-center"
                   loading="lazy"
                 />
               </div>
               <div>
                 <h3 className="font-serif font-bold text-xl text-white">
-                  Charllote Korankye
+                  Charllote Amaniampong Korankye
                 </h3>
                 <p className="text-xs text-teal-400 font-medium">
                   Professional Midwife • Maternal & Newborn Health
@@ -129,7 +129,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-charcoal-400">
           <p>
-            © {new Date().getFullYear()} Charllote Korankye. All rights reserved. Professional Midwifery Portfolio.
+            © {new Date().getFullYear()} Charllote Amaniampong Korankye. All rights reserved. Professional Midwifery Portfolio.
           </p>
 
           <div className="flex items-center gap-4">
